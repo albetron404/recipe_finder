@@ -12,6 +12,7 @@ This project is a Recipe Finder application that suggests recipes based on the i
 ## File Structure
 
 recipe_finder/
+
 │
 ├── main.py
 ├── ingredient.py
